@@ -18,8 +18,11 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
 ## Key Insights:
 -Identifies top-rated hotels based on user reviews
+
 -Analyzes customer demographic distribution
+
 -Visualizes rating patterns across hotels
+
 -Provides interactive exploration of review data
 
 ## How to Run Locally:
