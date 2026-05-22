@@ -35,6 +35,7 @@ streamlit run app.py
 
 🚀 Deployment:
 This project is deployed using Streamlit Cloud
+
 https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
 🎯 Future Improvements:
