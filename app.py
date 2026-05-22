@@ -7,7 +7,8 @@ st.set_page_config(
 )
 
 # Load data
-df = pd.read_csv("data/booking_reviews.csv")
+import os
+df = pd.read_csv(os.path.join("data", "booking_reviews.csv"))
 
 # ---------------- SIDEBAR FILTERS ----------------
 st.sidebar.title("Filters")
