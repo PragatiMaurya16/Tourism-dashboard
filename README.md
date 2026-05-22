@@ -40,9 +40,13 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
 🎯 Future Improvements:
 -Map-based hotel visualization
+
 -Sentiment analysis on reviews
+
 -Time-series trend analysis
+
 -Export filtered dataset option
+
 -Recommendation system for hotels
 
 👩‍💻 Author:
