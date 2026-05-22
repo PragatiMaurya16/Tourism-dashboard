@@ -3,10 +3,10 @@
 An interactive Tourism Data Analytics Dashboard built using Streamlit, Pandas, and Plotly.
 This project analyzes hotel reviews and customer data to generate insights on ratings, trends, and demographics.
 
-🌐 Live App:
+Live App:
 https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
-🚀 Features:
+Features:
 - Interactive KPI cards (Total Reviews, Average Rating, Hotels, Countries)
 - Top hotel performance analysis
 - Customer nationality distribution
@@ -16,13 +16,13 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 - Hotel-wise review explorer
 - Real-time data updates based on filters
 
-🧠 Key Insights:
+Key Insights:
 -Identifies top-rated hotels based on user reviews
 -Analyzes customer demographic distribution
 -Visualizes rating patterns across hotels
 -Provides interactive exploration of review data
 
-▶️ How to Run Locally:
+How to Run Locally:
 1. Clone the repository
 git clone https://github.com/PragatiMaurya16/Tourism-dashboard.git
 2. Navigate to project folder
@@ -33,12 +33,12 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-🚀 Deployment:
+Deployment:
 This project is deployed using Streamlit Cloud
 
 https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
-🎯 Future Improvements:
+Future Improvements:
 -Map-based hotel visualization
 
 -Sentiment analysis on reviews
@@ -49,7 +49,7 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
 -Recommendation system for hotels
 
-👩‍💻 Author:
+Author:
 Pragati Maurya
 
 Aspiring Data Scientist | Python Developer
