@@ -56,4 +56,4 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 ## Author:
 Pragati Maurya
 
-Aspiring Data Scientist | Python Developer
+B.Tech Student | Aspiring Data Scientist | Python Developer
