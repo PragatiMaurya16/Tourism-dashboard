@@ -63,3 +63,8 @@ https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 Pragati Maurya
 
 B.Tech Student | Aspiring Data Scientist | Python Developer
+
+## Support:
+If you found this project useful, consider giving it a star on GitHub.
+
+It helps others discover the project and supports future development.
