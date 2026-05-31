@@ -6,6 +6,12 @@ This project analyzes hotel reviews and customer data to generate insights on ra
 Live App:
 https://tourism-dashboard-uwps6j76kjyud243pyfrhq.streamlit.app/
 
+## Problem Statement:
+
+The tourism industry generates large volumes of data related to visitors, destinations, revenue, accommodations, and travel trends. However, this information is often stored in raw datasets and reports, making it difficult to identify patterns and gain actionable insights.
+
+This project aims to transform tourism data into an interactive dashboard that enables users to explore key tourism metrics, analyze trends, compare destinations, and make data-driven decisions through intuitive visualizations.
+
 ## Features:
 - Interactive KPI cards (Total Reviews, Average Rating, Hotels, Countries)
 - Top hotel performance analysis
